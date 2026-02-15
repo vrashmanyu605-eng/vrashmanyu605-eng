@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrashmanyusingh)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrashmanyusingh2000@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/vrashmanyu605-eng)
-[![Profile Views](https://visitcount.itsvg.in/api?id=vrashmanyu605-eng&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
