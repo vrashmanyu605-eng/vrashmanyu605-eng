@@ -1,8 +1,8 @@
+<div align="center">
+
 # Hi there, I'm Vrashmanyu Singh Ranawat 👋
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Backend+%26+AI+Systems+Developer;LLM+%26+RAG+Specialist;AWS+Cloud+Practitioner)](https://git.io/typing-svg)
+### 🤖 Machine Learning Engineer | 🏗️ Backend & AI Systems Developer | 🚀 LLM & RAG Specialist | ☁️ AWS Cloud Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vrashmanyusingh)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vrashmanyusingh2000@gmail.com)
